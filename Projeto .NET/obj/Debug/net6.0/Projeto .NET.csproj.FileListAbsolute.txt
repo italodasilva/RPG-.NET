@@ -1,0 +1,15 @@
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\bin\Debug\net6.0\Projeto .NET.exe
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\bin\Debug\net6.0\Projeto .NET.deps.json
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\bin\Debug\net6.0\Projeto .NET.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\bin\Debug\net6.0\Projeto .NET.dll
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\bin\Debug\net6.0\Projeto .NET.pdb
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.dll
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\refint\Projeto .NET.dll
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.pdb
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\Projeto .NET.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\DIO - Unimed\Projeto .NET\obj\Debug\net6.0\ref\Projeto .NET.dll
